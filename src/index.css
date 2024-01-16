@@ -5,6 +5,16 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: #0f1621;
+  background-image: url('C:\Users\USER\Desktop\ai-image-generator\src\Components\Assets\image.jpg');
+  /* Set the background image size */
+  background-size: cover;
+  /* Set background attachment to fixed if you want a fixed background */
+  background-attachment: fixed;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 code {
